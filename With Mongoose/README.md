@@ -1,4 +1,4 @@
-# Project Name
+# Mongoose Udemy Assignment
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17-green.svg)](https://nodejs.org/)
